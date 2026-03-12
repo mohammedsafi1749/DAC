@@ -93,10 +93,10 @@ To write an assembly language program in 8086 to generate square and Sawtooth wa
 
 ### OUTPUT OF DAC USING DSO
 ###### SAWTOOTH WAVEFORM  
- <img width="531" height="299" alt="image" src="https://github.com/user-attachments/assets/56713a9e-c93f-4d91-876b-77f9014304bf" />
+<img width="531" height="299" alt="image" src="https://github.com/user-attachments/assets/0f7674b8-aedc-4faa-9742-76504e4bd1d4" />
 
 ###### SQUARE WAVEFORM  
- <img width="533" height="357" alt="image" src="https://github.com/user-attachments/assets/a78e67ca-c3e1-4cba-91cf-efbde40456f2" />
+<img width="531" height="299" alt="image" src="https://github.com/user-attachments/assets/2eaf065e-29da-47fc-ae38-88c60b9083e1" />
 
 ### RESULT
 
