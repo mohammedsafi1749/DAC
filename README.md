@@ -84,19 +84,20 @@ To write an assembly language program in 8086 to generate square and Sawtooth wa
 
 
 ### MODEL GRAPH
-###### SAWTOOTH WAVEFORM   
-<img width="503" height="358" alt="image" src="https://github.com/user-attachments/assets/afaa8723-44f4-40d1-b942-21c12acec946" />
+###### SAWTOOTH WAVEFORM  
 
-###### SQUARE WAVEFORM   
-<img width="499" height="360" alt="image" src="https://github.com/user-attachments/assets/e70c766b-8556-4109-9155-c2708b91ac61" />
+<img width="503" height="358" alt="image" src="https://github.com/user-attachments/assets/c0e60ef8-4965-42de-b09e-07c6c7001677" />
 
+###### SQUARE WAVEFORM 
+
+<img width="503" height="358" alt="image" src="https://github.com/user-attachments/assets/9f2c4495-f1ab-447d-b9fe-033f2d7e4bce" />
 
 ### OUTPUT OF DAC USING DSO
 ###### SAWTOOTH WAVEFORM  
-<img width="531" height="299" alt="image" src="https://github.com/user-attachments/assets/0f7674b8-aedc-4faa-9742-76504e4bd1d4" />
+ <img width="531" height="299" alt="image" src="https://github.com/user-attachments/assets/56713a9e-c93f-4d91-876b-77f9014304bf" />
 
 ###### SQUARE WAVEFORM  
-<img width="531" height="299" alt="image" src="https://github.com/user-attachments/assets/2eaf065e-29da-47fc-ae38-88c60b9083e1" />
+ <img width="533" height="357" alt="image" src="https://github.com/user-attachments/assets/a78e67ca-c3e1-4cba-91cf-efbde40456f2" />
 
 ### RESULT
 
